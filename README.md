@@ -123,6 +123,8 @@ cd backend
 # Create virtual environment
 python -m venv venv
 
+#working video: https://drive.google.com/drive/folders/1SOWdk9mlZyITJG2g3wl-LLFEWN_qOdQ5?usp=drive_link
+
 # Activate virtual environment
 venv\Scripts\activate   # Windows
 source venv/bin/activate   # Mac/Linux
