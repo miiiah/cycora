@@ -1,3 +1,7 @@
+![Uploading Screenshot 2026-02-21 at 8.04.57 AM.png…]()
+
+
+
 # CYCORA 🎯  
 ### *In Sync With You*
 
