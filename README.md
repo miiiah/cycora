@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./img.png" alt="Cycora Banner" width="100%">
-</p>
-
 # CYCORA 🎯  
 ### *In Sync With You*
 
