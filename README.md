@@ -243,8 +243,6 @@ Purpose:
 
 Backend architecture planning
 
-API design
-
 Workflow structuring
 
 Debugging assistance
@@ -264,9 +262,9 @@ UI/UX design
 Feature planning (Inner Circle concept)
 
 Team Contributions
-[Your Name]: Backend development, API creation, database design, prediction logic
+Minnah Pattar Kadavan: Backend development, API creation, database design, prediction logic
 
-[Teammate Name]: Frontend UI/UX design, API integration, user experience flow
+Kalyani R: Frontend UI/UX design, API integration, user experience flow
 
 License
 This project is licensed under the MIT License.
