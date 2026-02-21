@@ -272,12 +272,3 @@ License
 This project is licensed under the MIT License.
 
 Made with ❤️ at TinkerHub
-
-
----
-
-If you want, I can now also give:
-
-- 🔥 A more “judges-impressive” version (more emotional + impact driven)
-- 📈 A technically stronger version
-- 🏆 A version optimized to win hackathons specifically
