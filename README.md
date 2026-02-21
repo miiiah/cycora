@@ -1,3 +1,4 @@
+![Description](img.png)
 ![Description](screen.png)
 ![Description](photo.png)
 ![Description](pic.png)
@@ -13,8 +14,8 @@
 ethercore
 
 ### Team Members
-- Minnah Pattar Kadavan – CEAL
-- Kalyani R – CEAL
+- Minnah Pattar Kadavan – College of Engineering Attingal
+- Kalyani R – College of Engineering Attingal
 
 ### Hosted Project Link
 Frontend: [Add hosted link here]  
