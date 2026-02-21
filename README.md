@@ -1,6 +1,6 @@
 ![Description](screen.png)
 ![Description](photo.png)
-
+![Description](pic.png)
 
 # CYCORA 🎯  
 ### *In Sync With You*
